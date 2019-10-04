@@ -1,4 +1,4 @@
-## 100 numpy exercises
+# 100 numpy exercises
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/rougier/numpy-100/notebooks/100%20Numpy%20exercises.ipynb)
 
@@ -10,9 +10,6 @@ This is a collection of numpy exercises from numpy mailing list, stack overflow,
 This work is licensed under the MIT license.  
 [![DOI](https://zenodo.org/badge/10173/rougier/numpy-100.svg)](https://zenodo.org/badge/latestdoi/10173/rougier/numpy-100)
 
-
-
-# 100 numpy exercises
 
 This is a collection of exercises that have been collected in the numpy mailing list, on stack overflow and in the numpy documentation. The goal of this collection is to offer a quick reference for both old and new users but also to provide a set of exercises for those who teach.
 
